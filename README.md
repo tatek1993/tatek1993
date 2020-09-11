@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Hello I'm Tate](https://github.com/tatek1993/tatek1993/raw/master/githubbanner.jpg)
-<img align='right' src="https://media.giphy.com/media/JmgQ0FP3vEcHPKcxVl/source.gif" width="230">
+
 <p><em>Software Engineer fresh from <a href="https://lambdaschool.com/">Lambda School </a><img src="https://github.com/tatek1993/tatek1993/raw/master/lambda.png" width="15"> 
 </em></p>
 
@@ -25,27 +25,23 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/tatek1993?label=Follow&style=social)
 
 
+## <img src="https://github.com/tatek1993/tatek1993/raw/master/code.gif" width="70"> A little more about me...  
+<img align='right' src="https://media.giphy.com/media/JmgQ0FP3vEcHPKcxVl/source.gif" width="200">
 
-## <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/source.gif" width="70"> A little more about me...  
 
 ```javascript
 const tate = {
-    pronouns: "They" | "Them",
+    pronouns: "They | Them",
     code: {
-        'frontend': ['JavaScript', 'ReactJS', 'Redux', 'HTML', 'CSS', 'Boostrap', 'Reactstrap', 'MaterialUI', 'LESS/SASS',],
-        'backend': ['Python', 'NodeJS'],
-        'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Postman', 'Knex.JS', 'Express'],
-        'devops': ['Docker', 'Netlify', 'GitHub Actions', 'AWS', 'Heroku'],
-        'tools': ['GIT', 'npm/yarn', 'GitHub'],
-        'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
+        'frontend': ['JavaScript', 'React', 'Redux', 'HTML', 'CSS', 'Bootstrap', 'MaterialUI'],
+        'backend': ['Python', 'NodeJS', 'Express'],
+        'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Knex.js'],
+        'devops': ['Docker', 'Netlify', 'GitHub Actions', 'Heroku'],
+        'tools': ['GIT', 'npm/yarn', 'GitHub', 'Postman', 'Eclipse']
     },
-    askMeAbout: [],
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    architecture: ["Single page applications", "Progressive web applications", "RESTful web services", "N-Tier web applications"],
+    askMeAbout: ["spicy food", "SVG animations", "my dog", "painting", "indie video games"],
+    funFact: "The increasing speed and difficulty in Space Invaders was actually a bug-turned-feature"
 };
 ```
-<img align='center' src="https://media.giphy.com/media/Q8b8bhMBsoLwju6xbK/source.gif" width="230">
-
-
-<img src="https://github.com/tatek1993/tatek1993/raw/master/connect.gif" width="80"> <em><b>Want to connect? I'm </b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img align='center' src="https://media.giphy.com/media/Q8b8bhMBsoLwju6xbK/source.gif" width="180"></br></br><div align='center'><img align='center' src="https://github.com/tatek1993/tatek1993/raw/master/connect.gif" width="80"> </br><em><b>I'm always excited to connect with other developers!</b></br> So if you want to say hey,<b> don't be afraid to shoot me a message!</b></em></div>
