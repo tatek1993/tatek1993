@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/tatek1993?label=Follow&style=social)
 
 
-## <img src="https://github.com/tatek1993/tatek1993/raw/master/code.gif" width="70"> A little more about me...  
-<img align='right' style='position:absolute; z-index:1; right:0;' src="https://media.giphy.com/media/JmgQ0FP3vEcHPKcxVl/source.gif" width="220">
-<div style="float:right; width:100px; height:150px">&nbsp;</div>
+## A little more about me...  
+<img align='right' src="https://media.giphy.com/media/JmgQ0FP3vEcHPKcxVl/source.gif" width="220">
+
 
 ```javascript
 const tate = {
