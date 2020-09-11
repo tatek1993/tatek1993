@@ -48,4 +48,4 @@ const tate = {
 <img align='center' src="https://media.giphy.com/media/Q8b8bhMBsoLwju6xbK/source.gif" width="230">
 
 
-<img src="https://media.giphy.com/media/dyAnngHb30dDdiaW3x/source.gif" width="80"> <em><b>Want to connect? I'm </b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://github.com/tatek1993/tatek1993/raw/master/connect.gif" width="80"> <em><b>Want to connect? I'm </b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
