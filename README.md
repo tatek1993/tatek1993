@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 
 ## <img src="https://github.com/tatek1993/tatek1993/raw/master/code.gif" width="70"> A little more about me...  
-<img align='right' src="https://media.giphy.com/media/JmgQ0FP3vEcHPKcxVl/source.gif" width="200">
-
+<img align='right' style='position:absolute; z-index:1; right:0;' src="https://media.giphy.com/media/JmgQ0FP3vEcHPKcxVl/source.gif" width="220">
+<div style="float:right; width:100px; height:150px">&nbsp;</div>
 
 ```javascript
 const tate = {
