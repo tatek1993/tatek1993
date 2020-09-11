@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hello I'm Tate](https://github.com/tatek1993/tatek1993/raw/master/githubbanner.jpg)
+![Tate Keller Moctezuma, Web Developer](https://github.com/tatek1993/tatek1993/raw/master/githubbanner.jpg)
 
 <div align='left'><p><em>Software Engineer fresh from <a href="https://lambdaschool.com/">Lambda School </a><img src="https://github.com/tatek1993/tatek1993/raw/master/lambda.png" width="15"> 
 </em></p></div>
