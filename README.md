@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2><img src="githubbanner.jpg"/></h2>
+![Hello I'm Tate](githubbanner.jpg)
 <img align='right' src="https://media.giphy.com/media/JmgQ0FP3vEcHPKcxVl/source.gif" width="230">
 <p><em>Software Engineer fresh from <a href="https://lambdaschool.com/">Lambda School </a><img src="lambda.png" width="15"> 
 </em></p>
@@ -48,4 +48,4 @@ const tate = {
 <img align='center' src="https://media.giphy.com/media/Q8b8bhMBsoLwju6xbK/source.gif" width="230">
 
 
-<img src="https://media.giphy.com/media/dyAnngHb30dDdiaW3x/source.gif" width="80"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/dyAnngHb30dDdiaW3x/source.gif" width="80"> <em><b>Want to connect? I'm </b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
