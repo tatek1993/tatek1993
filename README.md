@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hello I'm Tate](githubbanner.jpg)
+![Hello I'm Tate](https://github.com/tatek1993/tatek1993/raw/master/githubbanner.jpg)
 <img align='right' src="https://media.giphy.com/media/JmgQ0FP3vEcHPKcxVl/source.gif" width="230">
-<p><em>Software Engineer fresh from <a href="https://lambdaschool.com/">Lambda School </a><img src="lambda.png" width="15"> 
+<p><em>Software Engineer fresh from <a href="https://lambdaschool.com/">Lambda School </a><img src="https://github.com/tatek1993/tatek1993/raw/master/lambda.png" width="15"> 
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/MoctezumaTate?label=Follow)
