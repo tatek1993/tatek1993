@@ -32,22 +32,22 @@ Here are some ideas to get you started:
 
 ```javascript
 const tate = {
-    pronouns: 'They | Them',
-    code: {
-        'frontend': ['JavaScript', 'React', 'Redux',
-                     'HTML', 'CSS', 'Bootstrap', 'MaterialUI'],
-        'backend': ['Python', 'NodeJS', 'Express'],
-        'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Knex.js'],
-        'devops': ['Docker', 'Netlify', 'GitHub Actions', 'Heroku'],
-        'tools': ['GIT', 'npm/yarn', 'GitHub', 'Postman', 'Eclipse']
-    },
-    architecture: ['Single page applications', 
-                   'Progressive web applications', 
-                   'RESTful web services', 
-                   'N-Tier web applications'],
-    askMeAbout: ['spicy food', 'SVG animations', 'my dog', 
-                 'painting', 'indie video games'],
-    funFact: 'The increasing speed & difficulty in Space Invaders was a bug-turned-feature.'
+  pronouns: 'They | Them',
+  code: {
+    'frontend': ['JavaScript', 'React', 'Redux',
+                 'HTML', 'CSS', 'Bootstrap', 'MaterialUI'],
+    'backend': ['Python', 'NodeJS', 'Express'],
+    'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Knex.js'],
+    'devops': ['Docker', 'Netlify', 'GitHub Actions', 'Heroku'],
+    'tools': ['GIT', 'npm/yarn', 'GitHub', 'Postman', 'Eclipse']
+  },
+  architecture: ['Single page applications', 
+                 'Progressive web applications', 
+                 'RESTful web services', 
+                 'N-Tier web applications'],
+  askMeAbout: ['spicy food', 'SVG animations', 'my dog', 
+               'painting', 'indie video games'],
+  funFact: 'The increasing speed & difficulty in Space Invaders was a bug-turned-feature.'
 };
 ```
 </br><div align='center'><img align='center' src="https://media.giphy.com/media/Q8b8bhMBsoLwju6xbK/source.gif" width="180"></br><img align='center' src="https://github.com/tatek1993/tatek1993/raw/master/connect.gif" width="80"> </br><em><b>I'm always excited to connect with other developers!</b></br> So if you want to say hey,<b> don't be afraid to shoot me a message!</b></em></div>
