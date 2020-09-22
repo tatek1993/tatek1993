@@ -47,7 +47,7 @@ const tate = {
                    'N-Tier web applications'],
     askMeAbout: ['spicy food', 'SVG animations', 'my dog', 
                  'painting', 'indie video games'],
-    funFact: 'The increasing speed and difficulty in Space Invaders was a bug-turned-feature.'
+    funFact: 'The increasing speed & difficulty in Space Invaders was a bug-turned-feature.'
 };
 ```
 </br><div align='center'><img align='center' src="https://media.giphy.com/media/Q8b8bhMBsoLwju6xbK/source.gif" width="180"></br><img align='center' src="https://github.com/tatek1993/tatek1993/raw/master/connect.gif" width="80"> </br><em><b>I'm always excited to connect with other developers!</b></br> So if you want to say hey,<b> don't be afraid to shoot me a message!</b></em></div>
