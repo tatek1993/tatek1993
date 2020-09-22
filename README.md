@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <div align='center'><h1> Hey, nice to meet you! I'm Tate! 👋🏽</h1></div>
 
-<img align='left' src="https://media.giphy.com/media/JmgQ0FP3vEcHPKcxVl/source.gif" width="220">
+<img align='left' src="https://media.giphy.com/media/JmgQ0FP3vEcHPKcxVl/source.gif" width="200">
 
 
 ```javascript
