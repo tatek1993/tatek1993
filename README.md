@@ -43,8 +43,7 @@ const tate = {
   },
   architecture: ['Single page applications', 'Progressive web applications', 
                  'RESTful web services', 'N-Tier web applications'],
-  askMeAbout: ['spicy food', 'SVG animations', 'my dog', 
-               'painting', 'indie video games'],
+  askMeAbout: ['spicy food', 'SVG animations', 'my dog', 'painting', 'indie video games'],
   funFact: 'The increasing speed & difficulty in Space Invaders was a bug-turned-feature.'
 };
 ```
