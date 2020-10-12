@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 </em></p></div>
 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/MoctezumaTate?label=Follow)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MoctezumaTate?label=Follow)](https://twitter.com/MoctezumaTate)
 [![Linkedin: tatekellermoctezuma](https://img.shields.io/badge/-Tate-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tate-keller-moctezuma/)](https://www.linkedin.com/in/tate-keller-moctezuma/)
-![GitHub followers](https://img.shields.io/github/followers/tatek1993?label=Follow&style=social)
+[![GitHub followers](https://img.shields.io/github/followers/tatek1993?label=Follow&style=social)](https://github.com/tatek1993)
 
 <div align='center'><h1> Hey, nice to meet you! I'm Tate! 👋🏽</h1></div>
 
