@@ -17,15 +17,20 @@ Here are some ideas to get you started:
 
 ![Tate Keller Moctezuma, Web Developer](https://github.com/tatek1993/tatek1993/raw/master/githubbanner.jpg)
 
-<div align='left'><p><em>Web Developer fresh from <a href="https://lambdaschool.com/">Lambda School  <img src="https://github.com/tatek1993/tatek1993/raw/master/full-stack-web-development-technical-interviewing.png" width="12"/></a> 
 </em></p></div>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="894b6cde-5199-4233-8c0c-7c0fede0571d" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="894b6cde-5199-4233-8c0c-7c0fede0571d" data-share-badge-host="https://www.youracclaim.com"></div>
+
+<div align='left'><p><em>Web Developer fresh from <a href="https://lambdaschool.com/">Lambda School <img src="https://github.com/tatek1993/tatek1993/raw/master/lambda.png" width="10"/></a> 
+
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MoctezumaTate?label=Follow)](https://twitter.com/MoctezumaTate)
 [![Linkedin: tatekellermoctezuma](https://img.shields.io/badge/-Tate-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tate-keller-moctezuma/)](https://www.linkedin.com/in/tate-keller-moctezuma/)
 [![GitHub followers](https://img.shields.io/github/followers/tatek1993?label=Follow&style=social)](https://github.com/tatek1993)
+
+[<div align='left'><img src="https://github.com/tatek1993/tatek1993/raw/master/full-stack-web-development-technical-interviewing.png" width="80" /></div>](https://www.youracclaim.com/badges/894b6cde-5199-4233-8c0c-7c0fede0571d/public_url)
+
 
 <div align='center'><h1> Hey, nice to meet you! I'm Tate! 👋🏽</h1></div>
 
