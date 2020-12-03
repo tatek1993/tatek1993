@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 ![Tate Keller Moctezuma, Web Developer](https://github.com/tatek1993/tatek1993/raw/master/githubbanner.jpg)
 
-<div align='left'><p><em>Software Engineer fresh from <a href="https://lambdaschool.com/">Lambda School  <img src="https://github.com/tatek1993/tatek1993/raw/master/lambda.png" width="12"/></a> 
+<div align='left'><p><em>Web Developer fresh from <a href="https://lambdaschool.com/">Lambda School  <img src="https://github.com/tatek1993/tatek1993/raw/master/full-stack-web-development-technical-interviewing.png" width="12"/></a> 
 </em></p></div>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="894b6cde-5199-4233-8c0c-7c0fede0571d" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MoctezumaTate?label=Follow)](https://twitter.com/MoctezumaTate)
