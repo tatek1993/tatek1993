@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [![Linkedin: tatekellermoctezuma](https://img.shields.io/badge/-Tate-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tate-keller-moctezuma/)](https://www.linkedin.com/in/tate-keller-moctezuma/)
 [![GitHub followers](https://img.shields.io/github/followers/tatek1993?label=Follow&style=social)](https://github.com/tatek1993)
 
-<a href="https://www.youracclaim.com/badges/894b6cde-5199-4233-8c0c-7c0fede0571d/public_url"><img  src="https://github.com/tatek1993/tatek1993/raw/master/full-stack-web-development-technical-interviewing.png" width="60" /></a>
+<a href="https://www.youracclaim.com/badges/894b6cde-5199-4233-8c0c-7c0fede0571d/public_url"><img  src="https://github.com/tatek1993/tatek1993/raw/master/full-stack-web-development-technical-interviewing.png" width="120" /></a>
 
 
 <div align='center'><h1> Hey, nice to meet you! I'm Tate! 👋🏽</h1></div>
